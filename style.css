@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 100vh;
+
+}
+.navbar-style {
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo {
+    height: 48px;
+    padding: 2px 10px;
+}
+
+.icon-bar {
+    background: darkorange;
+}
+.img {
+    height: 25%;
+}
+.write {
+  text-align: center;
+  padding: 10px 10px 10px; 
+  margin: 10px 10px 10px;
+  color: #efefef;
+  background-color: darkorange;  
+}
+
+.son {
+  
+    color: darkorange;
+    padding: 10px ;
+    margin: 10px10px 10px 10px;
+    text-align: center;
+}
+.sin {
+    text-align: center;
+}
+.contact {
+    text-align: center;
+    color: orange;
+    font-size: 40px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+
+.sales {
+    text-align: center;
+    font-size: 20px;
+    padding: 1px  ;
+    margin: 1px  1px;
+    line-height: 1.8;
+
+}
+.sales1 {
+    text-align: center;
+    font-size: 20px;  
+    padding: 1px  ;
+    margin: 1px  ;
+    line-height: 1.8;
+  
+}
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    
+    
+}
+.box {
+    
+        display: block;
+        background-color: rgb(218, 212, 212);
+        height: 160px;
+        width: 370px;
+        margin: 20px 20px;
+}
+
+
+.sales {
+    text-align: center;
+    font-size: 20px;
+    padding: 1px  ;
+    margin: 1px  1px;
+    line-height: 1.8;
+
+}
